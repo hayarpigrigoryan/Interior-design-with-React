@@ -1,4 +1,5 @@
-class Title2 extends Comment{
+import { Component } from "react"
+class Title2 extends Component{
     render(){
         return(
             <h2 className={this.props.className}>

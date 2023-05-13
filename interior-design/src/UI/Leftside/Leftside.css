@@ -1,0 +1,38 @@
+.Left-side-container{
+    background-color: #f44336;
+    width: 20%;
+    height: 100vh;
+    position: fixed;
+    top:0;
+    left:0;
+}
+.company-name{
+    padding-top: 90px;
+    padding-left: 44px;
+    color: white;
+    font-size: 24px;
+    font-family:sans-serif;
+
+}
+.List{
+    padding-top: 70px;
+    padding-left: 30px;
+}
+.listitem{
+    list-style-type:none;
+    font-size: 20px;
+    line-height: 1.5;
+    color: white;
+    font-weight: 600;
+    font-family:sans-serif ;
+    padding: 6px 16px;
+
+
+}
+.listitem:hover{
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    width: 94%;
+  
+}
